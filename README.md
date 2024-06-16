@@ -4,7 +4,7 @@
 
 # Overview
 
-The project is highly-opinionated, and there are many other alternate routes it could have taken. Some examples:
+The project is highly-opinionated, and there are many other alternate routes it could haveff taken. Some examples:
 
 - Supports Ton Connect 2 wallets
 - Uses vite with react (alternative to create-react-app)
